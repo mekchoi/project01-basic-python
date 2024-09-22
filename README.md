@@ -12,11 +12,10 @@ Pendengar di kota Springfield dan Shelbyville memiliki preferensi yang berbeda. 
 Data yang kamu butuhkan disimpan dalam file  /datasets/music_project_en.csv. Kamu juga bisa mengunduhnya di sini.
 
 # Deskripsi kolom:
-
-'userID' — ID pengguna
-'Track' — judul lagu
-'artist' — nama artis
-'genre'
-'City' — kota asal pengguna
-'time' — waktu saat lagu tersebut diputar
-'Day' — hari dalam seminggu
+- 'userID' — ID pengguna
+- 'Track' — judul lagu
+- 'artist' — nama artis
+- 'genre'
+- 'City' — kota asal pengguna
+- 'time' — waktu saat lagu tersebut diputar
+- 'Day' — hari dalam seminggu
